@@ -32,5 +32,6 @@ I am Waleeja Khan, a second semester student of Bachelors in AI at FAST NUCES, P
 -> VS CODE
 -> Dev-C++
 ## Reach ME:
-Email: waleejakhan.nu@gmail.com
+Email: waleejakhan.nu@gmail.com  
+
 linkdin: waleeja-khan
