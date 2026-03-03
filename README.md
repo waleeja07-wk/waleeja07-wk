@@ -17,19 +17,28 @@ Here are some ideas to get you started:
 ## About Me:
 I am Waleeja Khan, a second semester student of Bachelors in AI at FAST NUCES, Peshawar. I am interested in web development, AI, and linux system. I am also interested in social work.
 ## Currently Working ON:
--> Web Development (self learning)
--> strenthening programming (OOP)
--> Working on Github
+-> Web Development (self learning)  
+
+-> strenthening programming (OOP)  
+
+-> Working on Github  
+
 -> Volunteer Work at SKMCH (social welfare project)
 ## Currently Learning:
--> C++
--> HTML 
+-> C++  
+
+-> HTML  
+ 
 -> CSS
 ## Skills:
--> C (Strong Command)
--> C++ (Basic to intermediate)
--> MS Office (Word, PowerPoint, Excel)
--> VS CODE
+-> C (Strong Command)  
+
+-> C++ (Basic to intermediate)  
+
+-> MS Office (Word, PowerPoint, Excel)  
+
+-> VS CODE  
+
 -> Dev-C++
 ## Reach ME:
 Email: waleejakhan.nu@gmail.com  
