@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Waleeja Khan</h1>
-
 <p align="center">
   <sub>BS ARTIFICIAL INTELLIGENCE · FAST NUCES PESHAWAR</sub>
 </p>
-
 <p align="center">
   <a href="mailto:waleejakhan.nu@gmail.com">
     <img src="https://img.shields.io/badge/Email-waleejakhan.nu%40gmail.com-0C447C?style=flat&labelColor=E6F1FB&color=E6F1FB&logoColor=0C447C&logo=gmail"/>
@@ -44,18 +42,18 @@ BS AI student at FAST NUCES Peshawar focused on building practical skills in pro
 
 **Languages**
 
-![C](https://img.shields.io/badge/C-Strong-3C3489?style=flat&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489&logo=c)
-![C++](https://img.shields.io/badge/C++-Intermediate-3C3489?style=flat&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489&logo=cplusplus)
-![HTML](https://img.shields.io/badge/HTML-Learning-633806?style=flat&labelColor=FAEEDA&color=FAEEDA&logoColor=633806&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Learning-633806?style=flat&labelColor=FAEEDA&color=FAEEDA&logoColor=633806&logo=css3)
+![C](https://img.shields.io/badge/C-Strong-3C3489?style=for-the-badge&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489&logo=c)
+![C++](https://img.shields.io/badge/C++-Intermediate-3C3489?style=for-the-badge&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489&logo=cplusplus)
+![HTML](https://img.shields.io/badge/HTML-Learning-633806?style=for-the-badge&labelColor=FAEEDA&color=FAEEDA&logoColor=633806&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Learning-633806?style=for-the-badge&labelColor=FAEEDA&color=FAEEDA&logoColor=633806&logo=css3)
 
 **Tools**
 
-![VS Code](https://img.shields.io/badge/VS_Code-085041?style=flat&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=visualstudiocode)
-![Git](https://img.shields.io/badge/Git-085041?style=flat&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-085041?style=flat&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=github)
-![Linux](https://img.shields.io/badge/Linux-085041?style=flat&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=linux)
-![MS Office](https://img.shields.io/badge/MS_Office-085041?style=flat&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=microsoftoffice)
+![VS Code](https://img.shields.io/badge/VS_Code-085041?style=for-the-badge&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-085041?style=for-the-badge&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-085041?style=for-the-badge&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=github)
+![Linux](https://img.shields.io/badge/Linux-085041?style=for-the-badge&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=linux)
+![MS Office](https://img.shields.io/badge/MS_Office-085041?style=for-the-badge&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=microsoftoffice)
 
 ---
 
