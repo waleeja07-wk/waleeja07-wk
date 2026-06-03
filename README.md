@@ -73,7 +73,8 @@ BS AI student at FAST NUCES Peshawar focused on building practical skills in pro
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waleeja07-wk&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=waleeja07-wk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleeja07-wk&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
