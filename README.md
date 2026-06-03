@@ -70,12 +70,9 @@ BS AI student at FAST NUCES Peshawar focused on building practical skills in pro
 
 ---
 
-### GitHub Stats
+### GitHub
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=waleeja07-wk&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
+📂 Check out my repositories below ↓
 ---
 
 <p align="center"><i>"Building one project at a time."</i></p>
