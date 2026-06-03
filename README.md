@@ -13,64 +13,70 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Waleeja Khan 👋</h1>
+<h1 align="center">Waleeja Khan</h1>
 
 <p align="center">
-  BS Artificial Intelligence · FAST NUCES Peshawar · 2nd Semester
+  <sub>BS ARTIFICIAL INTELLIGENCE · FAST NUCES PESHAWAR</sub>
 </p>
 
 <p align="center">
-  <a href="mailto:waleejakhan.nu@gmail.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/waleeja-khan">💼 LinkedIn</a>
+  <a href="mailto:waleejakhan.nu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-waleejakhan.nu%40gmail.com-0C447C?style=flat&labelColor=E6F1FB&color=E6F1FB&logoColor=0C447C&logo=gmail"/>
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/waleeja-khan-837684392/">
+    <img src="https://img.shields.io/badge/LinkedIn-waleeja--khan-085041?style=flat&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=linkedin"/>
+  </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+### About
 
-I'm a BS AI student at FAST NUCES Peshawar with a passion for building things — whether that's writing clean code, exploring Linux systems, or contributing to social causes. Currently focused on strengthening my programming foundations while diving into web development on the side.
+BS AI student at FAST NUCES Peshawar focused on building practical skills in programming, web development, and Linux systems. Currently in my second semester — strengthening foundations while contributing to meaningful social work.
 
-- 🎓 2nd Semester · BS Artificial Intelligence · FAST NUCES Peshawar  
-- 🌱 Currently learning: **C++, HTML, CSS**  
-- 🔭 Working on: Personal portfolio website  
-- ❤️ Volunteer at **Shaukat Khanum Memorial Cancer Hospital (SKMCH)**  
-- 💡 Interests: AI · Web Development · Linux · Social Work  
+- 🎓 2nd Semester · BS Artificial Intelligence · FAST NUCES Peshawar
+- ❤️ Volunteer at **Shaukat Khanum Memorial Cancer Hospital (SKMCH)**
+- 💡 Interests: AI · Web Development · Linux · Social Work
 
 ---
 
-## 🛠️ Skills
+### Skills
 
 **Languages**
-- C — Strong Command
-- C++ — Beginner to Intermediate
-- HTML/CSS — Learning
 
-**Tools & Platforms**
-- VS Code · Dev-C++
-- Git & GitHub
-- MS Office (Word, Excel, PowerPoint)
-- Linux (basic familiarity)
+![C](https://img.shields.io/badge/C-Strong-3C3489?style=flat&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489&logo=c)
+![C++](https://img.shields.io/badge/C++-Intermediate-3C3489?style=flat&labelColor=EEEDFE&color=EEEDFE&logoColor=3C3489&logo=cplusplus)
+![HTML](https://img.shields.io/badge/HTML-Learning-633806?style=flat&labelColor=FAEEDA&color=FAEEDA&logoColor=633806&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Learning-633806?style=flat&labelColor=FAEEDA&color=FAEEDA&logoColor=633806&logo=css3)
 
----
+**Tools**
 
-## 🚀 Currently Working On
-
-- 🌐 Self-learning web development (HTML, CSS)
-- 💪 Strengthening OOP concepts in C++
-- 📁 Building my GitHub profile with projects
-- 🤝 Volunteer work at SKMCH (social welfare)
+![VS Code](https://img.shields.io/badge/VS_Code-085041?style=flat&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=visualstudiocode)
+![Git](https://img.shields.io/badge/Git-085041?style=flat&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-085041?style=flat&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=github)
+![Linux](https://img.shields.io/badge/Linux-085041?style=flat&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=linux)
+![MS Office](https://img.shields.io/badge/MS_Office-085041?style=flat&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=microsoftoffice)
 
 ---
 
-## 📊 GitHub Stats
+### Currently Working On
+
+| | |
+|---|---|
+| 🌐 | Self-learning web development — HTML & CSS |
+| 💻 | Strengthening OOP concepts in C++ |
+| 📁 | Building GitHub profile with real projects |
+| ❤️ | Volunteer work at SKMCH (social welfare) |
+
+---
+
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waleeja07-wk&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleeja07-wk&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=waleeja07-wk&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleeja07-wk&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-<p align="center">
-  <i>"Building one project at a time."</i>
-</p>
+<p align="center"><i>"Building one project at a time."</i></p>
