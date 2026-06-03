@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
   <a href="mailto:waleejakhan.nu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-waleejakhan.nu%40gmail.com-0C447C?style=flat&labelColor=E6F1FB&color=E6F1FB&logoColor=0C447C&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-waleejakhan.nu%40gmail.com-0C447C?style=for-the-badge&labelColor=E6F1FB&color=E6F1FB&logoColor=0C447C&logo=gmail"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/waleeja-khan-837684392/">
-    <img src="https://img.shields.io/badge/LinkedIn-waleeja--khan-085041?style=flat&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-waleeja--khan-085041?style=for-the-badge&labelColor=E1F5EE&color=E1F5EE&logoColor=085041&logo=linkedin"/>
   </a>
 </p>
 
