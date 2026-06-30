@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-BS Artificial Intelligence | FAST NUCES Peshawar | Community Service Volunteer | Tech Enthusiast | Web Development 
+Student of BS Artificial Intelligence at National University of Computer and Emerging
+Sciences (FAST), Peshawar. Seeking opportunities to apply programming, web
+development, and cloud computing skills in real-world projects. Passionate about AI, Linux
+systems, and emerging technologies, with a strong foundation in C and C++ programming
+and problem-solving.
 
 
 ## 🌐 Socials:
